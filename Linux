@@ -1,0 +1,93 @@
+Now for a short message from our retainer: Brenton.
+w3m https://soundcloud.com/stylustbeats/stylust-pocket-tape-4-private-link 
+>file
+<π>
+sudo apt-get install ufw
+ufw enable
+ufw default deny incoming
+ufw default allow outgoing
+>file
+and just because your a good bunch I will give you games..
+sudo apt install flatpak
+sudo apt install gnome-software-plugin-flatpak
+>file
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+sudo restart
+flatpak install flathub net.studio08.xbplay
+>file
+git clone://github.com/jellybabypsi/reverse-amnessia
+git clone https://github.com/asbestomolesto/mindguard
+git clone https://github.com/offensive-security/kali-nethunter
+>file
+flatpak install flathub com.sindresorhus.Caprine
+sudo apt update
+sudo apt install snap
+sudo snap install snapd
+>file
+sudo snap install facebook-webapp
+flatpak install flathub com.google.Chrome
+sudo resizepart /dev/sda2 10000000
+>file
+git clone https://github.com/egodigital/node-google-play-store
+sudo apt-get update
+sudo DEBIAN_FRONTEND=noninteractive apt-get install freedombox
+sudo snap install klettres
+>file
+sudo snap install soundcloud9000
+sudo snap install spotify
+sudo snap install gimp
+>file
+git clone https://github.com/ValveSoftware/halflife
+git clone https://github.com/OpenDiablo2/OpenDiablo2
+flatpak install flathub org.goldendict.GoldenGoldenDict
+>file
+flatpak install flathub net.sourceforge.artha.Artha
+flatpak install flathub com.github.HypatiaProject.hypatia
+flatpak install flathub io.gitlab.o20.file
+>file
+flatpak install flathub org.ardour.Ardour
+flatpak install flathub org.jjazzlab.JJazzLab
+>file
+apt-cache search xscreensaver*
+sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
+>file
+>file
+sudo snap install soundcloud9000
+sudo snap install spotify
+sudo snap install gimp
+>file
+git clone https://github.com/ValveSoftware/halflife
+flatpak install flathub org.goldendict.GoldenGoldenDict
+>file
+flatpak install flathub net.sourceforge.artha.Artha
+flatpak install flathub com.github.HypatiaProject.hypatia
+flatpak install flathub io.gitlab.o20.file
+>file
+flatpak install flathub org.ardour.Ardour
+flatpak install flathub org.jjazzlab.JJazzLab
+>file
+git clone github.com/supdroidstudio/mcpe-linux/raw/master/mcpe-linux.zip
+git clone https://github.com/skyjake/Doomsday-Engine.git
+git clone https://github.com/NFMynster/ArenaGame.git
+git clone https://github.com/inside/actionRPGGame.git
+>file
+git clone https://github.com/AquariaOSE/Aquaria
+git clone https://github.com/solarus-games/zsdx 
+git clone https://github.com/opentomb/OpenTomb
+git clone https://github.com/maettig/starship-sorades-13k
+>file
+sudo snap install boa
+git clone https://github.com/lostdecade/onslaught_arena
+git clone https://github.com/ValyriaTear/ValyriaTear
+git clone https://github.com/mitallast/diablo-js
+>file
+apt-cache search xscreensaver*
+sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
+>filesudo apt-get cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+sudo cryptsetup open /dev/sda0 <SpArKZero>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
+sudo cryptsetup open /dev/sda1 <SpArKZero>
+>file
+
+This was done, for free, By Brenton Hopkins from 0em 
