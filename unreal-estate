@@ -1,0 +1,12 @@
+nano "/mnt/sda7.1/new text document1.txt"
+
+TEMP_SWAP_VALUE
+w.costello ~ 100 →  TEMP_SWAP_VALUE
+a.mundine ~ 2  →  w.costello ~ 100
+TEMP_SWAP_VALUE  a.mundine ~ 2 
+w.costello ~ 100
+a.mundine ~ 2
+
+Press: Ctrl+O
+Press: Enter
+Press: CTRL+X
