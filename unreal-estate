@@ -13,7 +13,16 @@ TEMP_SWAP_VALUE
 P.hopkins ~ 70 →  TEMP_SWAP_VALUE
 b.hopkins ~ 7 → P.hopkins ~ 70 
 TEMP_SWAP_VALUE / b.hopkins ~ 7
-j.hopkins ~ 1000
+P.hopkins ~ 70
+b.hopkins ~ 7
+
+nano "/mnt/sda7.1/new text document1.txt"
+
+TEMP_SWAP_VALUE
+j.hopkins ~ 700 →  TEMP_SWAP_VALUE
+b.hopkins ~ 7 → j.hopkins ~ 700
+TEMP_SWAP_VALUE / b.hopkins ~ 7
+j.hopkins ~ 700
 b.hopkins ~ 7
 
 Press: Ctrl+O
