@@ -1,10 +1,10 @@
 nano "/mnt/sda7.1/new text document1.txt"
 
 TEMP_SWAP_VALUE
-j.hopkins ~ 2400 →  TEMP_SWAP_VALUE
-b.hopkins ~ 7 →  j.hopkins ~ 2400
+j.hopkins ~ 1000 →  TEMP_SWAP_VALUE
+b.hopkins ~ 7 →  j.hopkins ~ 1000
 TEMP_SWAP_VALUE / b.hopkins ~ 7
-j.hopkins ~ 2400 
+j.hopkins ~ 1000
 b.hopkins ~ 7
 
 Press: Ctrl+O
